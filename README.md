@@ -7,7 +7,7 @@
 <br>
 
 ## 👀 UI 구성
-![기본 UI뷰 구성](https://github.com/kangsworkspace/BMI/assets/141600830/ed1005b6-872e-47ce-b153-37804d21eb2a)
+![기본 UI뷰 구성](https://github.com/kangsworkspace/BMI/assets/141600830/aaefad48-8d65-4d84-b964-f2011e2f6feb)
 
 - 두개의 ViewController로 구성되어 있습니다.
 - 화면의 전환은 버튼을 통해 직접 세그웨이로 구현했습니다.
@@ -54,12 +54,11 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 1) 텍스트 필드의 값을 읽어와서 BMI 값 계산하기
 2) prepare 함수에서 데이터를 전달하기
    ( bmi값 전달 + bmiComment, bmiColor를 계산하는 함수를 실행해서 전달)
-![dosik](https://github.com/kangsworkspace/BMI/assets/141600830/6aee40e9-f67d-42a0-be59-7109c10a993e)
+![dosik](https://github.com/kangsworkspace/BMI/assets/141600830/142c65b9-a122-4884-979a-2fbb39354b31)
 
 ## 🎬 완성된 모습
 
-![GIFMaker_me](https://github.com/kangsworkspace/BMI/assets/141600830/1b9598bd-bb87-4c31-9728-3630f7781c13)
-
+![GIFMaker_me](https://github.com/kangsworkspace/BMI/assets/141600830/0f298d1d-f275-4bce-95bd-949973f6d400)
 
 
 ## 🙉 문제점 및 해결
